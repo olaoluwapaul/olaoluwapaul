@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Angular, C# and Python**
 
+- 👨‍💻 My personal portfolio showcasing some of my projects are available at https://olaoluwaportfolio.netlify.app/
+
 - 📫 How to reach me **adesolapaul@gmail.com**
 
 - 💬 Ask me about **SQL, Angular, C# and more. Let's have a conversation**
