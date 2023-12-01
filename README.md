@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👨🏾‍💻, I'm Olaoluwa Adesola</h1>
-<h3 align="center">I am an aspiring full stack developer & data engineer from South Africa. I am in my final year studying BCom Informatics Information Systems at the University of Pretoria.</h3>
+<h3 align="center">I am an aspiring full stack developer & data engineer from South Africa. I am studying towards a BCom (Hons) in Informatics Information Systems degree at the University of Pretoria.</h3>
 
 - 🌱 I’m currently learning **Angular, C# and Python**
 
-- 🔗 My personal portfolio showcasing some of my projects are available at https://olaoluwaportfolio.netlify.app/
+- 🔗 My personal portfolio showcasing some of my projects is available at https://olaoluwaportfolio.netlify.app/
 
 - 📫 How to reach me **adesolapaul@gmail.com**
 
