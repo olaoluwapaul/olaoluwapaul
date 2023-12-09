@@ -87,7 +87,6 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=olaoluwapaul&show_icons=true&locale=en" alt="olaoluwapaul" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=olaoluwapaul&show_icons=true&locale=en&layout=compact" alt="olaoluwapaul" /></p>
 
